@@ -19,7 +19,7 @@ public class TabSwitchTest {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 		driver.get("https://www.youtube.com/");
-		System.out.println(driver.getTitle() +" suraj" );
+		System.out.println(driver.getTitle());
 		//((JavascriptExecutor) driver).executeScript ("window.open()"); 
 		JavascriptExecutor js=(JavascriptExecutor) driver;
 		js.executeScript ("window.open()");
