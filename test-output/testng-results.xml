@@ -2,33 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="22047" started-at="2023-08-03T12:31:09 IST" finished-at="2023-08-03T12:31:31 IST">
+  <suite name="Default suite" duration-ms="22862" started-at="2023-08-07T17:16:43 IST" finished-at="2023-08-07T17:17:06 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="22047" started-at="2023-08-03T12:31:09 IST" finished-at="2023-08-03T12:31:31 IST">
+    <test name="Default test" duration-ms="22862" started-at="2023-08-07T17:16:43 IST" finished-at="2023-08-07T17:17:06 IST">
       <class name="DataDriven.Login_CloudTesla">
-        <test-method status="PASS" signature="loginaction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDriven.Login_CloudTesla@5bcea91b]" name="loginaction" duration-ms="21103" started-at="2023-08-03T12:31:10 IST" data-provider="Yash" finished-at="2023-08-03T12:31:31 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[puni@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Puni@12345]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Pass]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginaction -->
-        <test-method status="PASS" signature="loginaction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDriven.Login_CloudTesla@5bcea91b]" name="loginaction" duration-ms="20902" started-at="2023-08-03T12:31:10 IST" data-provider="Yash" finished-at="2023-08-03T12:31:31 IST">
+        <test-method status="PASS" signature="loginaction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDriven.Login_CloudTesla@5bcea91b]" name="loginaction" duration-ms="21844" started-at="2023-08-07T17:16:44 IST" data-provider="Yash" finished-at="2023-08-07T17:17:06 IST">
           <params>
             <param index="0">
               <value>
@@ -49,16 +28,16 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginaction -->
-        <test-method status="PASS" signature="loginaction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDriven.Login_CloudTesla@5bcea91b]" name="loginaction" duration-ms="21057" started-at="2023-08-03T12:31:10 IST" data-provider="Yash" finished-at="2023-08-03T12:31:31 IST">
+        <test-method status="PASS" signature="loginaction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDriven.Login_CloudTesla@5bcea91b]" name="loginaction" duration-ms="21626" started-at="2023-08-07T17:16:44 IST" data-provider="Yash" finished-at="2023-08-07T17:17:06 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Karthi@gmail.com]]>
+                <![CDATA[puni@gmail.com]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[Kart@12345]]>
+                <![CDATA[Puni@12345]]>
               </value>
             </param>
             <param index="2">
@@ -70,7 +49,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginaction -->
-        <test-method status="PASS" signature="loginaction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDriven.Login_CloudTesla@5bcea91b]" name="loginaction" duration-ms="20902" started-at="2023-08-03T12:31:10 IST" data-provider="Yash" finished-at="2023-08-03T12:31:31 IST">
+        <test-method status="PASS" signature="loginaction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDriven.Login_CloudTesla@5bcea91b]" name="loginaction" duration-ms="21750" started-at="2023-08-07T17:16:44 IST" data-provider="Yash" finished-at="2023-08-07T17:17:06 IST">
           <params>
             <param index="0">
               <value>
@@ -80,6 +59,27 @@
             <param index="1">
               <value>
                 <![CDATA[Yash@12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginaction -->
+        <test-method status="PASS" signature="loginaction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataDriven.Login_CloudTesla@5bcea91b]" name="loginaction" duration-ms="21876" started-at="2023-08-07T17:16:44 IST" data-provider="Yash" finished-at="2023-08-07T17:17:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Karthi@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kart@12345]]>
               </value>
             </param>
             <param index="2">
