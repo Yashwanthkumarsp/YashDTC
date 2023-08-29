@@ -1,0 +1,3 @@
+WebDriverManager.chromedriver().setup(); and System.setproperty(Key, value);
+if we use latest version of chrome (116) no need to download .exe file(Selenium will not download any chrome.exe file, if we want download manually)
+no need to add webdrivermanager and system.setproperty
